@@ -5,7 +5,6 @@ print(Sec)
 count = 1
 
 while (count!=4):
-    print("hello world")
     no = int(input("enter a num: "))
     if(Sec != no):
         count = count + 1
